@@ -1,6 +1,6 @@
 class Owner
 def name
-name = 'Cyril LEViS'
+name = 'Cyril'
 end
 def birthdate
 birthdate = Date.new(1986, 03, 12)
